@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Nuget", ".Nuget", "{E6AA20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homepage.App.Web", "projects\Homepage.App.Web\Homepage.App.Web.csproj", "{565F782F-1787-4B57-A95B-4598DC51B357}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layoutpage.App.Web", "projects\Layoutpage.App.Web\Layoutpage.App.Web.csproj", "{50F5A5CA-DF44-4881-8F44-B7BD7C0482BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{565F782F-1787-4B57-A95B-4598DC51B357}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{565F782F-1787-4B57-A95B-4598DC51B357}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{565F782F-1787-4B57-A95B-4598DC51B357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F5A5CA-DF44-4881-8F44-B7BD7C0482BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F5A5CA-DF44-4881-8F44-B7BD7C0482BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F5A5CA-DF44-4881-8F44-B7BD7C0482BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F5A5CA-DF44-4881-8F44-B7BD7C0482BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
